@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Some amazing people"]
   s.email       = ["evolve2k@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = "It does what it says on the packet"
+  s.description = "ActiveLDAP what more to say"
 
   s.rubyforge_project = "activeldap"
 
